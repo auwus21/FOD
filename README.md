@@ -16,6 +16,7 @@ Repositorio de estudio personal para la materia **Fundamentos de Organización d
 Contiene los resúmenes y apuntes teóricos de las clases.
 
 * **Resúmenes en Markdown:**
+  * [Clase 1: Introducción a Archivos y Operaciones Básicas](Teoria/Resumenes/Clase1.md)
   * [Clase 2: Algoritmia Clásica (Agregar, Actualizar, Merge, Corte)](Teoria/Resumenes/Clase2.md)
 * **Material Oficial Cátedra:**
   * [Directorio de PDFs y Diapositivas](Teoria/Material_Original/)
